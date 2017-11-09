@@ -30,4 +30,6 @@ function iLoveTheBeatles(key){
     array.push('I love the Beatles!')
     key++
   } while (key < 15);
+
+  return array
 }
